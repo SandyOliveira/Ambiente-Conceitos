@@ -1,0 +1,15 @@
+Fornece funcionalidades padrões
+>>yarn add express 
+
+
+
+Nodemon dependencia que reinicia automaticamente 
+>>yarn add nodemon -D
+Faça alteração em package.json antes das dependencies
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+
+
+  reiniciar automaticamente 
+  >> yarn dev 
